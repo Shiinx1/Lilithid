@@ -15,6 +15,7 @@ Lilithid (Cheems) is a Discord Bot, created for the purpose of the game Realm of
 - Member moderation (suspensions, mutes, warns)
 - Confirmation of important members for the raids
 - Prioritizing members who boosted the Discord or paid Patreon to get informations about the raid ealier than others
+- Database to keep track of moderation and members
 
 ## Credits
 Thanks to Fungal and Crystal Cavern and Shatters Discord community servers, who ran the bot with a cumulative of over 71.600 members.
